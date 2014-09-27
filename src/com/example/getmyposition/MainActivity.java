@@ -153,6 +153,14 @@ public class MainActivity extends FragmentActivity implements LocationListener {
 					.snippet(address)
 					.icon(BitmapDescriptorFactory
 							.fromResource(R.drawable.ic_launcher)));
+			
+			
+/*			
+			final Intent intent = new Intent(Intent.ACTION_VIEW,Uri.parse("http://maps.google.com/maps?" + "saddr="+ lat + "," + lng + "&daddr="+nlatitude+","+nlongitude));
+		    intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+		    Fragment context = null;
+			context.startActivity(intent);
+*/
 		}
 
 		// Zoom in the Google Map
