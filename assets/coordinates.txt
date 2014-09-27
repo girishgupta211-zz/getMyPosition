@@ -1,0 +1,26 @@
+Nashik-Ram Bahadur Gokhle Marg-20.001145-73.776499-4
+Nashik-Sharanpur Main Road-20.00069-73.776494-5
+Nashik-Ganga Ghat Road-20.001128-73.80001-3
+Nashik-Ram Kund-20-73.81001-4
+Nashik-Gole Colony-20.0007-73.7765-5
+Nashik-Shalimar-20.01049-73.786524-5
+Nashik-CanadaCorner-20.00145-73.77649-3
+Bangalore-Millers Road-12.592569-77.353289-5
+Bangalore-Hudson Circle/Nrupaatunga road-12.58109-77.351421-4
+Bangalore-Shiva Pura, Peenya Industrail Area-13.11769-77.28371-3
+Bangalore-Kadarahalli Main Road-12.55773-77.33026-4
+Bangalore-Cunningham Road-12.593419-77.362481-5
+Bangalore-Jallhlli road, Yelanka-13.44643-77.323125-3
+Bangalore-JP Nagar 2nd Phase, Shulabh Toilet-12.56563-77.32426-4
+Bangalore-Jayanagar 4th Block , Bus Stand-12.56425-77.318235-5
+Bangalore-Banashankari Main Bus Stand-12.56308-77.32345-3
+Bangalore-Banashankari Shopping Complex -12.57352-77.47647-4
+Bangalore-Koramangala, 1st Block-12.584142-77.35242-5
+Delhi -Dr Ramlal Verma Marg, Krishna Market, Lajpat Nagar I, Lajpat Nagar, New Delhi, DL 110024	- 28.57523	-77.24192
+Delhi -Birbal Rd, Lala Lajpat Rai Rd, Defence Colony Flyover, Lajpat Nagar II, Defence Colony, New Delhi, DL 110024	- 28.57441	-77.23867
+Delhi -Shiv Mandir Marg, Lajpat Nagar II, Lajpat Nagar, New Delhi, DL 110024	- 28.57321	-77.24596
+Delhi -10,Pocket H Market, Sarita Vihar Rd, Pocket A, Sarita Vihar, New Delhi, DL 110076	- 28.5- 28.8	-77.- 28.26
+Delhi -Shardhanand Marg, Garstin Bastion Rd, Shah Ganj, New Delhi, DL 110006	- 28.64932	-77.2217
+Delhi -Garstin Bastion Rd, Ajmere Gate, New Delhi, DL 110006	- 28.64988	-77.22091
+Delhi -Mahakavi Goswami Tulsidas Marg, Block 1, Subhash Nagar, New Delhi, DL 110027	- 28.63866	-77.10792
+Delhi -Old Rajinder Nagar, Rajinder Nagar, New Delhi, DL 110060	- 28.64043	-77.1859
